@@ -1,6 +1,8 @@
-# BOT - MultiAccount for BombCrypto - v 0.4.0
+# BOT - MultiAccount for BombCrypto - v 0.5.0
 
 ## Extra functions:
+
+- Multiaccount login with username and password
 - Sending notifications via Telegram:
   - Bot Startup Notice
   - Map Completion Notice
@@ -41,7 +43,6 @@ after that, click or type the command /newbot
 
 ![tb](https://github.com/felippetadeu/bombcrypto-multibot/blob/main/readme-images/telegrambot.png?raw=true)
 
-
 Choose a name for your Bot. After that choose a username for it, the end must contain the word Bot.
 Save the API Token for future use
 
@@ -79,9 +80,13 @@ Just run the IniciarBOT file
 ## Important
 
 ### Game Language: English
+
 ### Metamask language: English
+
 ### Browser Zoom: 100%
+
 ### Monitor Scale: 100%
 
 ## Did you like it? make your donation... Wallet BEP20
-### 0x0F134Cb0F31bc83780f3e5546598f4b25856A64f
+
+### 0xFbf15056aB7398b3F82219F1e462Cb065a14Ea2b

@@ -1,16 +1,18 @@
-# BOT - MultiContas para BombCrypto - v 0.4.0
+# BOT - MultiContas para BombCrypto - v 0.5.0
 
 ## Funções extras:
+
+- Login de multiaccounts com usuário e senha
 - Envios de notificações via Telegram:
-	- Aviso de Inicialização do Bot
-	- Aviso de Conclusão de Mapa
-	- Saldo em BCOINS
+  - Aviso de Inicialização do Bot
+  - Aviso de Conclusão de Mapa
+  - Saldo em BCOINS
 - Reinicio automático em caso de falha na execução
 - Identificação e Controle Automático das Janelas do BombCrypto
 - Coloca os heróis para trabalhar conforme variável
-	- Full = Envia apenas com energia cheia
-	- Green = Envia apenas com energia verde
-	- All = Envia todos os heróis pelo novo botão
+  - Full = Envia apenas com energia cheia
+  - Green = Envia apenas com energia verde
+  - All = Envia todos os heróis pelo novo botão
 - Todos os tempos de execução podem ser configurados
 
 ## Tutorial de Instalação
@@ -63,14 +65,14 @@ Abra o arquivo config.yaml pelo bloco de notas ou outro editor
 
 ![config](https://github.com/felippetadeu/bombcrypto-multibot/blob/main/readme-images/config.png?raw=true)
 
-Modifique os campos token e chat id com os valores salvos anteriormente. 
+Modifique os campos token e chat id com os valores salvos anteriormente.
 Salve o arquivo.
 
 ![log](https://github.com/felippetadeu/bombcrypto-multibot/blob/main/readme-images/telegramlog.png?raw=true)
 
 ### Iniciando o Bot
 
-Apenas execute o arquivo IniciarBOT 
+Apenas execute o arquivo IniciarBOT
 
 ![iniciar](https://github.com/felippetadeu/bombcrypto-multibot/blob/main/readme-images/iniciar.png?raw=true)
 
@@ -79,10 +81,15 @@ Apenas execute o arquivo IniciarBOT
 ## Importante
 
 ### Linguagem do Jogo: inglês
+
 ### Linguagem da Metamask: Inglês
+
 ### Ampliação do Navegador: 100%
+
 ### Escala do Monitor: 100%
+
 ### Todas as telas do jogo devem estar no monitor principal!
 
 ## Curtiu? Faça sua doação... Wallet BEP20
-### 0x0F134Cb0F31bc83780f3e5546598f4b25856A64f
+
+### 0xFbf15056aB7398b3F82219F1e462Cb065a14Ea2b
